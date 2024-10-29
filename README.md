@@ -133,5 +133,10 @@ We have access to a historical dataset of used car prices from CarDekho, coverin
 
 ## RESULTS;
 
+![Screenshot 2024-10-28 194021](https://github.com/user-attachments/assets/b6348876-4fb2-4266-829f-20193882186b)
+![Screenshot 2024-10-28 193938](https://github.com/user-attachments/assets/73d835ba-9307-4c62-9c02-38114d894d10)
+![Screenshot 2024-10-28 194113](https://github.com/user-attachments/assets/f2f3d858-96ed-41af-871d-f45eeaedfd2d)
+![Screenshot 2024-10-28 194049](https://github.com/user-attachments/assets/dff44822-2daf-4de9-aa8b-8a7f27b6b448)
+
 
 
